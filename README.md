@@ -1,0 +1,1 @@
+# Here is a totorial I did to predict Bangalor housing prices using a simple linear regression model. I used this project to understand a data science project from model development to building a application for a user.
